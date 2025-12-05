@@ -1,0 +1,44 @@
+node_modules/
+dist/
+.env
+*.log
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# ASP.NET Core / .NET
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.pdb
+*.mdb
+*.vs/
+
+# Environment
+.env.*
+
+# Others
+.DS_Store
+.idea/
+*.swp
+*.tmp
+*.bak
+
+# Ignore local settings
+*.local
+*.settings
+
+# Ignore test coverage
+coverage/
+
+# Ignore build output
+build/
+
+# Ignore OneDrive temp files
+~$*
